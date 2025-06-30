@@ -1,4 +1,3 @@
-# 6st.
 words = 'Hello my friend Islom'
 fd = 'Islom'
 

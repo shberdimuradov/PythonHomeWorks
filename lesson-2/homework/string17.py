@@ -1,5 +1,3 @@
-# 17st.
-
 text = input("Matn kiriting: ")
 
 vowels = 'aeiouAEIOU'

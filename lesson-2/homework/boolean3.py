@@ -1,4 +1,4 @@
-# 3st.
+
 number = int(input('Please enter your number: '))
 
 if number == 0:

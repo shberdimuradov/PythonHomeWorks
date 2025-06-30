@@ -1,4 +1,3 @@
-# 5st.
 word = 'Assalomu aleykum'
 vowels = 'aeiou'
 count = 0

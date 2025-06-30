@@ -1,4 +1,3 @@
-# 5st. Solution
 selcius = float(input('Enter selsius number: '))
 fahrenheit = selcius*1.8+32
 

@@ -1,4 +1,3 @@
-# 10st. Eslab qol 
 sentence = input('Please input sentence:').strip()
 
 if sentence:

@@ -1,4 +1,3 @@
-# 8st. eslatma buni ham eslab qol '' -bo`sh yozuvsiz qolsa xatolik bermasligi uchunquyidagicha yozilaid
 sentence = input('Please enter text: ')
 
 if len(sentence) > 0:

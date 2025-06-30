@@ -1,4 +1,3 @@
-# 14st.
 first_sentence = input('First sentence: ') 
 second_sentence = input('Second sentence: ')
 if first_sentence==second_sentence:

@@ -1,4 +1,4 @@
-# 5st.
+
 sentence1 = input('Enter sentence: ')
 sentence2 = input('Enter sentence: ')
 

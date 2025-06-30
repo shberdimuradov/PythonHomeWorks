@@ -1,4 +1,4 @@
-# 1st.
+
 username = input('Please enter user name: ')
 password = input('Please enter password: ')
 

@@ -1,4 +1,3 @@
-# 1st. Solution
 name = input('What`s your name: ')
 age = input('How old you: ')
 

@@ -1,4 +1,3 @@
-# 15st.
 text = 'World Health Organization'
 
 result = ''

@@ -1,4 +1,4 @@
-# 7st.  Ikki sonning yig'indisi 50 dan katta ekanligini tekshiradigan dastur yozing.
+
 num1 = float(input('Please enter first number: '))
 num2 = float(input('Please enter second number: '))
 

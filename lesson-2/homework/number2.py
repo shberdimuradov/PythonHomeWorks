@@ -1,4 +1,3 @@
-# 2st. Solution
 f_num = float(input('Please enter a number: '))
 s_num = float(input('Please enter a number: '))
 t_num = float(input('Please enter a number: '))

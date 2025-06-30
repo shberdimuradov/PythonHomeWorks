@@ -1,4 +1,3 @@
-# 4st.
 first_palindrom = 'madam'
 second_palindrom = 'racecar'
 num_polindrom = '12321'

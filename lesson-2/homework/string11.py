@@ -1,4 +1,3 @@
-# 11st. Eslab qol 
 word = 'H1ello'
 
 for i in word:

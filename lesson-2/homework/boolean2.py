@@ -1,4 +1,4 @@
-# 2st.
+
 num1 = float(input('Please enter first number: '))
 num2 = float(input('Please enter second number: '))
 
